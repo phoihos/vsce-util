@@ -1,0 +1,9 @@
+.vscode/**
+.vscode-test/**
+lib/test/**
+src/**
+.gitignore
+**/tsconfig.json
+**/.eslintrc.json
+**/.prettierrc.json
+**/*.map
